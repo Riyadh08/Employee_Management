@@ -37,7 +37,7 @@ A **Full-Stack Employee Management System** built using **Java Spring Boot** for
 
 ### 🗄️ Database
 - 🐘 **PostgreSQL**
-- 🔍 Hibernate (ORM)
+- 🔍 Hibernate (ORM)->(Hibernate is an implementation of JPA.)
 
 ---
 
